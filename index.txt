@@ -1,1 +1,3 @@
 create file index.txt
+String str = "Nguyen Ba Ngoc";
+String class = "Lop 11A";
