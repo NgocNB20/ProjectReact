@@ -1,8 +1,0 @@
-create file index.txt
-String str = "Nguyen Ba Ngoc";
-String class = "Lop 11A";
-int a = 15;
-int b = 20;
-int c = a+b;
-String valueStr = "execute conflic";
-System.out.printf("Hello World")
